@@ -54,7 +54,7 @@
             <version>2.6.0</version>
         </dependency>
 
-        <!-- Testes: JUnit 5, Mockito, AssertJ, MockMvc -->
+        <!-- Testes: JUnit 5, Mockito, AssertJ, MockMvc   -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
